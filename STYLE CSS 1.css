@@ -1,0 +1,26 @@
+p {
+    color: black;
+    font-size: 25px;
+    display: inline;
+}
+header {
+    background-image: url('house.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-weight: 600;
+    text-align: center;
+    padding: 1.5px;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: left;
+    padding: right;
+    border: solid black 2px 3px 2px;
+    text-align: center;
+}
+img{
+    margin: 20px;
+    padding: 1.5px;
+    border: 3px solid bisque;
+}
